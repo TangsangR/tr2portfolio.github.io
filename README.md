@@ -18,7 +18,8 @@ It features:
 The goal was simple yet bold:  
 To **create something beautiful with just the basics**, proving that mastery of fundamentals can outshine the loudest of trends.
 
-
+## 🚀 Live Preview
+🔗 [View it here!](#) *(https://tangsangr.github.io/tr2portfolio.github.io/Portfolio.html)*
 
 ## 🛠️ Built With
 
